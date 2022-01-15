@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @julienOlivier3
-- 👀 I’m interested in Data Science and its application in economic research
-- 💞️ I’m looking to collaborate on research projects in the field of Economics using methods such as NLP, ML, DL 
-- 📫 How to reach me? Twittter: @JulianDoerr15, LinkedIn: Julian Oliver Dörr
-
+- 👀 I’m interested in the field of Data Science and its application in industry and research
+- 💞️ I’m looking to work as part of a team of developers and engineers in an agile environment
+- 📫 Feel free to reach out to me? Twittter: @JulianDoerr15, Mail: julian--doerr@web.de
 <!---
 julienOlivier3/julienOlivier3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
