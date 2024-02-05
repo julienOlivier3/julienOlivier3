@@ -1,6 +1,5 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>I'm Julian Oliver Dörr! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<iframe src="https://giphy.com/embed/Gf5QiP1TWCO8qYKmt7" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qr-code-quick-response-Gf5QiP1TWCO8qYKmt7">via GIPHY</a></p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>I'm Julian Oliver Dörr!</h2>
+<img align='right' src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="230">
 <p><em>Data Scientist at <a href="https://www.bmw.com/de/index.html">BMW
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
