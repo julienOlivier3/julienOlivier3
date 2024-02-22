@@ -1,5 +1,5 @@
 <h2>I'm Julian Oliver Dörr!</h2>
-<img align='right' src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="430">
+
 <br>
 
 <p><em>Data Scientist at <a href="https://www.bmw.com/de/index.html">BMW</em></p>
