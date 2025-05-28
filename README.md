@@ -2,7 +2,7 @@
 
 <br>
 
-<p><em>Data Scientist at <a href="https://www.munichre.com/en.html">MunichRE</a> - ex <a href="https://www.bmw.com/de/index.html">BMW</a></em></p>
+<p><em>Senior Data Scientist at <a href="[https://www.munichre.com/en.html](https://atruvia.de/)">Atruvia</a> - ex <a href="https://www.bmw.com/de/index.html">BMW</a></em></p>, ex <a href="https://www.munichre.com/en.html">MunichRE</a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/JulianDoerr15)
 [![Linkedin](https://img.shields.io/badge/-Julian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dr-julian-oliver-d%C3%B6rr-02b499269/)](https://www.linkedin.com/in/dr-julian-oliver-d%C3%B6rr-02b499269/)
